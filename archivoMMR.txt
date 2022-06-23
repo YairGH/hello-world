@@ -1,1 +1,2 @@
-archivo esitado
+archivo esditado
+agregamos archivo a carpeta ignora_carpeta y carpeta_no_ignorada
